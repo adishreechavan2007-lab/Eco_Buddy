@@ -42,9 +42,9 @@ java -cp out com.ecobuddy.test.SmokeTest
 ## Team
 | Member | Responsibility |
 |---|---|
-| Member 1 | Activity hierarchy, emission factors (+ cite sources), more activity types |
-| Member 2 | User, suggestions, save/load to file |
-| Member 3 | GUI (Swing) and dashboard |
+| Adishree (member 1)| Activity hierarchy, emission factors (+ cite sources), more activity types |
+| Ritika (member 2) | User, suggestions, save/load to file |
+| Deven (member 3) | GUI (Swing) and dashboard |
 
 ## Emission Factor Sources
 TODO: cite the sources for the values in the enums.
